@@ -1,0 +1,18 @@
+body{
+    background-color:mediumseagreen;
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    margin-left: 30px;
+}
+
+img{
+   border-radius: 25%;
+
+   margin-top: 30px;
+}
+
+#links{
+    display: inline-block;
+    padding-right: 20px;
+}
